@@ -1,0 +1,31 @@
+                           Australis Bundle Adjustment Results: Camera Parameters
+
+                                        04 November, 2021   15:41:19
+
+Project:  C:\Australis\Project 1.aus
+
+Adjustment: Free-Network
+Number of Points: 1000
+Number of Images: 10
+RMS of Image coords:    1.00 (um)
+
+Results for Camera 1    ILCE-7RM2_(15mm)      Lens 
+
+Sensor Size        Pixel Size (mm)
+  H    7952           0.00452646
+  V    5304           0.00452646
+
+  Camera    Initial      Total          Final        Initial         Final
+ Variable    Value     Adjustment       Value       Std. Error     Std. Error
+    C       15.4732      0.00000       15.4732       1.0e+003         0.0010 (mm)
+   XP       -0.0398      0.00000       -0.0398       1.0e+003         0.0001 (mm)
+   YP       -0.0176      0.00000       -0.0176       1.0e+003         0.0001 (mm)
+   K1   1.09823e-04   0.000e-000   1.09823e-04       1.0e+003    3.49266e-08
+   K2  -2.25293e-07   0.000e-000  -2.25293e-07       1.0e+003    1.54124e-10
+   K3   1.69725e-10   0.000e-000   1.69725e-10       1.0e+003    2.25989e-13
+   P1   1.46146e-05   0.000e-000   1.46146e-05       1.0e+003    4.22465e-08
+   P2   2.29211e-05   0.000e-000   2.29211e-05       1.0e+003    3.74318e-08
+   B1   9.27948e-05   0.000e-000   9.27948e-05       1.0e+003    8.88827e-07
+   B2  -1.63989e-05   0.000e-000  -1.63989e-05       1.0e+003    7.75004e-07
+
+Maximum Observational Radial Distance Encountered:      21.633 mm
