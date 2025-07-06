@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Orthophoto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12c94fa8c94dac7ab62c3fb045ea2c4cc5d88ba7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Orthophoto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Orthophoto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

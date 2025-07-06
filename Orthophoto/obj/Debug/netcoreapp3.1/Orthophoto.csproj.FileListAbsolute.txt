@@ -90,3 +90,4 @@ C:\Users\User\Desktop\Orthorectification_of_Aerial_Images\Orthorectification_cod
 C:\Users\User\Desktop\Orthorectification_of_Aerial_Images\Orthorectification_code\Orthophoto\obj\Debug\netcoreapp3.1\Orthophoto.dll
 C:\Users\User\Desktop\Orthorectification_of_Aerial_Images\Orthorectification_code\Orthophoto\obj\Debug\netcoreapp3.1\Orthophoto.pdb
 C:\Users\User\Desktop\Orthorectification_of_Aerial_Images\Orthorectification_code\Orthophoto\obj\Debug\netcoreapp3.1\Orthophoto.genruntimeconfig.cache
+C:\Users\User\Desktop\Orthorectification_of_Aerial_Images\Orthorectification_code\Orthophoto\obj\Debug\netcoreapp3.1\Orthophoto.sourcelink.json
